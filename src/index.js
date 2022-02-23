@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+//const myelement = <h1>this is jsx syntax {10+10}</h1>
 
 ReactDOM.render(
+  //myelement,
   <React.StrictMode>
     <App />
   </React.StrictMode>,
